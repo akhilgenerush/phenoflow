@@ -9,7 +9,7 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Responsi
 // --- Asset Imports for Visuals ---
 import leavesMorphologyPlant1Url from "../assets/plant 1/leaves_morphology.json?url";
 import leavesMorphologyPlant2Url from "../assets/plant 2/leaves_morphology.json?url";
-import leavesMorphologyPlant3Url from "../assets/plant 3/leaves_morphology.json?url";
+import leavesMorphologyPlant3Url from "../../assets/plant 3/leaves_morphology.json?url";
 import plantLidarPlant1Url from "../assets/plant 1/plant_lidar_data.json?url";
 import plantLidarPlant2Url from "../assets/plant 2/plant_lidar_data.json?url";
 import plantLidarPlant3Url from "../assets/plant 3/plant_lidar_data.json?url";
